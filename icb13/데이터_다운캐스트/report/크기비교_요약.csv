@@ -1,0 +1,5 @@
+﻿파일,MB
+shopping_00_raw_object_snappy.parquet,36.26
+shopping_01_downcast_snappy.parquet,36.26
+shopping_02_category_snappy.parquet,28.39
+shopping_02_category_zstd-19.parquet,14.08
